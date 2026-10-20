@@ -1,0 +1,16 @@
+
+# Original and duplicate datasets
+data/
+
+# Python-generated cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+.venv/
+venv/
+
+# Temporary operating-system files
+Thumbs.db
+.DS_Store
