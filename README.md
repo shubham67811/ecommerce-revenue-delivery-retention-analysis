@@ -54,19 +54,19 @@ The goal is to use data analysis to identify business patterns, highlight potent
 
 ## Key Findings
 
--8.11%
+- 8.11%
 Late deliveries
 Delivery performance and customer experience
 
 8.11% of delivered orders arrived after their estimated delivery date. The average review score was 2.57/5 for late deliveries, compared with 4.29/5 for on-time deliveries. This is an association, not proof that delivery delays alone caused lower ratings.
 
--3.12%
+- 3.12%
 Repeat customers
 A potential retention opportunity
 
 Only 3.12% of identifiable customers placed multiple orders in your analysis. Repeat customers averaged 2.12 purchases and R$314.99 spending per customer, compared with R$161.82 per one-time customer. That suggests a retention opportunity to investigate; it doesn't establish why customers did or didn't return.
 
--21.05 pp
+- 21.05 pp
 State delivery gap
 Delivery performance varies geographically
 
@@ -74,7 +74,7 @@ The on-time delivery rate ranged from 97.12% in RO to 76.07% in AL, a gap of 21.
 
 
 
--R$162,591.95
+- R$162,591.95
 Payment discrepancy
 A data-quality issue discovered through SQL
 
@@ -82,11 +82,11 @@ Your investigation found 830 order IDs present in the payments table without mat
 
 
 
--R$1.26M
+- R$1.26M
 Top category sales
 Sales concentration and unusual periods
 
-Health & Beauty was the highest-sales category at R$1,258,681.34, while São Paulo (SP) led state sales at R$5,202,955.05. September 2018 sales fell to R$145 across 16 orders, of which 15 were canceled. The small order count is important context for interpreting that apparent collapse.
+Health & Beauty was the highest-sales category at R$1,258,681.34, while (SP) led state sales at R$5,202,955.05. September 2018 sales fell to R$145 across 16 orders, of which 15 were canceled. The small order count is important context for interpreting that apparent collapse.
 
 
 ## Project Structure
