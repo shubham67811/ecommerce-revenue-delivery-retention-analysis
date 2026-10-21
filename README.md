@@ -46,7 +46,7 @@ The goal is to use data analysis to identify business patterns, highlight potent
 ![Sales Performance](screenshots/Sales_Performance_analysis.png)
 
 ### Delivery Performance
-![Delivery Performance](screenshots/delivery and customer analysis.png)
+![Delivery Performance](screenshots/delivery_and_customer_analysis.png)
 
 ### Customer Retention
 ![Customer Retention](screenshots/Retention_and_orders_analysis.png)
