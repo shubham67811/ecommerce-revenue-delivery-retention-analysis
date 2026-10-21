@@ -78,7 +78,7 @@ The on-time delivery rate ranged from 97.12% in RO to 76.07% in AL, a gap of 21.
 Payment discrepancy
 A data-quality issue discovered through SQL
 
-Your investigation found 830 order IDs present in the payments table without matching order-item records. Their associated payment value was R$162,591.95. An inner join excluded these unmatched orders, illustrating why table grain and join coverage matter before comparing totals.
+Investigation found 830 order IDs present in the payments table without matching order-item records. Their associated payment value was R$162,591.95. An inner join excluded these unmatched orders, illustrating why table grain and join coverage matter before comparing totals.
 
 
 
